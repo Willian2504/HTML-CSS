@@ -1,2 +1,2 @@
 # HTML-CSS
- Curso de html5 e css3 Curso em Vídeo
+ Curso de HTML5 e CSS3 Curso em Vídeo
